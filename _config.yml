@@ -1,0 +1,23 @@
+name: prasitmankad
+favicon: null
+layout_spectrum: 0.19757395423948765
+typography_spectrum: 0.37590353074483573
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6307373370509595
+  lightness: 0.9523014952428639
+  saturation: 0.3345570748206228
+  rhythmicContrast: 0.8799553485587239
+purpose: []
